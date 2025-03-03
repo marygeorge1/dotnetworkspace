@@ -1,0 +1,14 @@
+C:\MARY\LearningSpace\DotNetWorkspace\demo\bin\Debug\net8.0\demo.exe
+C:\MARY\LearningSpace\DotNetWorkspace\demo\bin\Debug\net8.0\demo.deps.json
+C:\MARY\LearningSpace\DotNetWorkspace\demo\bin\Debug\net8.0\demo.runtimeconfig.json
+C:\MARY\LearningSpace\DotNetWorkspace\demo\bin\Debug\net8.0\demo.dll
+C:\MARY\LearningSpace\DotNetWorkspace\demo\bin\Debug\net8.0\demo.pdb
+C:\MARY\LearningSpace\DotNetWorkspace\demo\obj\Debug\net8.0\demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\MARY\LearningSpace\DotNetWorkspace\demo\obj\Debug\net8.0\demo.AssemblyInfoInputs.cache
+C:\MARY\LearningSpace\DotNetWorkspace\demo\obj\Debug\net8.0\demo.AssemblyInfo.cs
+C:\MARY\LearningSpace\DotNetWorkspace\demo\obj\Debug\net8.0\demo.csproj.CoreCompileInputs.cache
+C:\MARY\LearningSpace\DotNetWorkspace\demo\obj\Debug\net8.0\demo.dll
+C:\MARY\LearningSpace\DotNetWorkspace\demo\obj\Debug\net8.0\refint\demo.dll
+C:\MARY\LearningSpace\DotNetWorkspace\demo\obj\Debug\net8.0\demo.pdb
+C:\MARY\LearningSpace\DotNetWorkspace\demo\obj\Debug\net8.0\demo.genruntimeconfig.cache
+C:\MARY\LearningSpace\DotNetWorkspace\demo\obj\Debug\net8.0\ref\demo.dll
