@@ -12,3 +12,4 @@ C:\MARY\LearningSpace\DotNetWorkspace\demo\obj\Debug\net8.0\refint\demo.dll
 C:\MARY\LearningSpace\DotNetWorkspace\demo\obj\Debug\net8.0\demo.pdb
 C:\MARY\LearningSpace\DotNetWorkspace\demo\obj\Debug\net8.0\demo.genruntimeconfig.cache
 C:\MARY\LearningSpace\DotNetWorkspace\demo\obj\Debug\net8.0\ref\demo.dll
+C:\MARY\LearningSpace\DotNetWorkspace\demo\obj\Debug\net8.0\demo.sourcelink.json
